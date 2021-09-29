@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-ogbyl/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://.github.io/csb-ogbyl/static/js/main.633decb9.chunk.js",
+    "main.js.map": "https://.github.io/csb-ogbyl/static/js/main.633decb9.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-ogbyl/static/js/runtime-main.3443335c.js",
+    "runtime-main.js.map": "https://.github.io/csb-ogbyl/static/js/runtime-main.3443335c.js.map",
+    "static/js/2.88e1fc57.chunk.js": "https://.github.io/csb-ogbyl/static/js/2.88e1fc57.chunk.js",
+    "static/js/2.88e1fc57.chunk.js.map": "https://.github.io/csb-ogbyl/static/js/2.88e1fc57.chunk.js.map",
+    "index.html": "https://.github.io/csb-ogbyl/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://.github.io/csb-ogbyl/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.88e1fc57.chunk.js.LICENSE.txt": "https://.github.io/csb-ogbyl/static/js/2.88e1fc57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3443335c.js",
+    "static/js/2.88e1fc57.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.633decb9.chunk.js"
+  ]
+}
